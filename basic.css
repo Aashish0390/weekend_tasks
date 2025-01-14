@@ -1,0 +1,226 @@
+
+*{
+    text-decoration: none;
+}
+
+/*CSS FOR NAV BAR */
+
+.nav-bar{
+    padding: 25px 100px 25px 100px;
+    background-color: white;
+    
+    
+}
+.nav-text{
+    color: grey;
+}
+
+.nav-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+a{
+    color: black;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: grey;
+    margin-right: 30px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+/*CSS FOR WHOLE PAGE */
+
+.whole-page{
+    margin: 20px 100px 50px 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* CSS FOR UPPER SECTION */
+
+.upper-sec{
+    
+    justify-content: space-between;
+    display: flex;
+   
+}
+
+
+
+/*CSS FOR FIRST TEXT BOX IN MIDDLE */
+
+.text-large{
+    font-size:50px;
+    height: 150px;
+    font-weight: bold;
+    width: 350px;
+    text-align:justify;
+   
+    margin:  10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+}
+
+
+/* CSS FOR FIRST IMAGE */
+
+
+
+.first-siz{
+    height: 400px;
+    width: 800px;
+}
+
+/* CSS FOR PARAGRAPH MID SECTION */
+
+.para-first{
+    color: grey;
+    height: 150px;
+    text-align: left;
+    font-size: 20px;
+    width: 500px;
+    margin: 10px 0px 10px 50px;
+    padding: 10px 0px 10px 20px;
+    
+}
+
+/* CSS FOR SPAN TAG IN MID SECTION */
+
+.read-more{
+    
+    background-color: rgb(244, 8, 8);
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    margin: 20px 0px 0px 0px;
+    padding: 10px 15px 10px 15px;
+}
+
+
+/* Side Content Bar */
+
+.side-large{
+    color: chocolate;
+    margin: 10px 0px 0px 10px;
+    font-size: 30px;
+    margin: 20px ;
+    
+}
+.bord-side{
+    border-bottom: 2px solid white;
+}
+
+.side-part{
+    background-color: rgb(37, 34, 34);
+    font-size: 20px;
+    width: 430px;
+    height: 530px;
+    padding:  20px 20px 20px 20px;
+    justify-content: center;
+    
+}
+
+.side-div{
+    color: white;
+    margin: 30px 0px 20px 20px;
+    
+}
+
+.side-text{
+    
+    margin: 0px 0px 0px 20px;
+    padding: 10px 0px 40px 0px;
+    color: white;
+    font-size: 15px;
+    border-width: 300px;
+    border: 0px 0px 2px 0px;
+    border-color: white;
+  
+}
+
+
+
+
+
+
+
+/* CSS FOR MID TEXT AND PARAGRAPH */ 
+
+.mid-items{
+    
+    display: flex;
+    width: 800px;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+
+/* CSS FOR CARDS */ 
+
+.cards-bottom{
+    display: flex;
+    margin: 10px 30px 30px 0px;
+    background-color: white;
+    width: 100%;
+}
+
+.my-cards{
+    display: flex;
+    width: 700px;
+    
+    
+    
+}
+
+.img-card{
+    border: 2px;
+    background-color: black;
+    margin: 10px 10px 10px 0px;
+    
+}
+
+.resize{
+    width: 100px;
+    height: 100px;
+}
+
+/* CSS FOR CARD H1 */
+
+.num-card{
+    color: chocolate;
+    font-size: 30px;
+    margin: 0px 0px 0px 0px;
+}
+
+/* CSS FOR CARD P */
+
+
+/* CSS FOR CARD H3 */
+.hea-card{
+    margin: 10px 0px 0px 0px;
+}
+
+
+.my-text{
+    
+    padding: 2px 10px 0px 0px ;
+    margin: 2px 10px 0px 10px;
+    font-size: 15px;
+    width: 250px;
+}
+
+.par-card{
+    color: grey;
+    margin: 10px 0px 0px 0px;
+}
